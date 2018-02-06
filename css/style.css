@@ -87,7 +87,7 @@
     text-align: center;
     font-size: 25px;
     font-weight: 300;
-    color: #ee53f8;
+    color: #00032a;
     position: relative;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -97,7 +97,7 @@
     content: "";
     width: 58px;
     height: 2px;
-    background-color: #ee53f8;
+    background-color: #00032a;
     left: 50%;
     margin-left: -29px;
     bottom: -8px;
@@ -133,7 +133,7 @@
 }
 .row-icon .pricing-icon.color1 .htfy,
 .row-icon .pricing-icon.color1 .fa{
-    color: #756de7;
+    color: #30368e;
 }
 .row-icon .pricing-icon.color2 .htfy,
 .row-icon .pricing-icon.color2 .fa{
@@ -173,7 +173,7 @@
 }
 .ybtn-purple{
     color: #ffffff;
-    background-color: #756de7;
+    background-color: #30368e;
 }
 .ybtn-purple:hover,
 .ybtn-purple:focus{
@@ -181,7 +181,7 @@
     background-color: #6961d4;
 }
 .ybtn-purple-text{
-    color: #756de7;
+    color: #30368e;
     background-color: transparent;
 }
 .ybtn-purple-text:hover,
@@ -255,7 +255,7 @@
     background-image: url(../images/headbg.svg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    background-color: #756DE7;
+    background-color: #30368e;
     -webkit-transform: skewY(-10deg);
     transform: skewY(-10deg);
     z-index: -1;
@@ -265,13 +265,13 @@
     top: 0;
     height: 100%;
     background-image: inherit;
-    background-color: #756de7;
+    background-color: #30368e;
     -webkit-transform: skewY(0deg);
     transform: skewY(0deg);
     display: none;
 }
 #header-holder.inner-header{
-    background-color: #756de7;
+    background-color: #30368e;
 }
 #header-holder #nav{
     border: 0;
@@ -499,7 +499,7 @@ svg.logo text{
     color: #7a7896;
 }
 .mega-box.m-color1 .mega-icon{
-    color: #756de7;
+    color: #30368e;
 }
 .mega-box.m-color1:hover .mega-icon,
 .mega-box.m-color1:focus .mega-icon{
@@ -849,7 +849,7 @@ svg.logo text{
 .text-purple-light{
     font-size: 25px;
     font-weight: 300;
-    color: #756de7;
+    color: #30368e;
 }
 .text-purple-dark{
     font-size: 25px;
@@ -984,7 +984,7 @@ svg.logo text{
     filter: grayscale(100%) brightness(88%);
 }
 .pricing-box.pricing-color1 .pricing-content .pricing-icon{
-    background-color: #756de7;
+    background-color: #30368e;
 }
 .pricing-box.pricing-color2 .pricing-content .pricing-icon{
     background-color: #5d9cec;
@@ -998,7 +998,7 @@ svg.logo text{
 }
 
 .pricing-box.pricing-box-simple.pricing-color1:hover .pricing-content .pricing-icon{
-    border-color: #756de7;
+    border-color: #30368e;
     background-color: #eae8ff;
 }
 .pricing-box.pricing-box-simple.pricing-color2:hover .pricing-content .pricing-icon{
@@ -1027,7 +1027,7 @@ svg.logo text{
     opacity: 1;
 }
 .pricing-box.pricing-box-simple.pricing-color1:before{
-    color: #756de7;
+    color: #30368e;
 }
 .pricing-box.pricing-box-simple.pricing-color2:before{
     color: #5d9cec;
@@ -1072,7 +1072,7 @@ svg.logo text{
     padding: 4px 5px;
 }
 .pricing-box.featured.pricing-color1 .pricing-content:after{
-    background-color: #756de7;
+    background-color: #30368e;
 }
 .pricing-box.featured.pricing-color2 .pricing-content:after{
     background-color: #5d9cec;
@@ -1086,7 +1086,7 @@ svg.logo text{
     text-transform: uppercase;
 }
 .pricing-box.pricing-color1 .pricing-content .pricing-title{
-    color: #756de7;
+    color: #30368e;
 }
 .pricing-box.pricing-color2 .pricing-content .pricing-title{
     color: #5d9cec;
@@ -1142,7 +1142,7 @@ svg.logo text{
     transform: scale(0.7);
 }
 .pricing-box.pricing-color1 .pricing-content .pricing-details ul li:before{
-    background-color: #756de7;
+    background-color: #30368e;
     -webkit-box-shadow: 0 3px 8px rgba(117, 109, 231, 0.5);
     -moz-box-shadow: 0 3px 8px rgba(117, 109, 231, 0.5);
     box-shadow: 0 3px 8px rgba(117, 109, 231, 0.5);
@@ -1177,7 +1177,7 @@ svg.logo text{
 }
 .pricing-box.pricing-color1 .pricing-content .pricing-link a{
     color: #ffffff;
-    background-color: #756de7;
+    background-color: #30368e;
 }
 .pricing-box.pricing-color1 .pricing-content .pricing-link a:hover,
 .pricing-box.pricing-color1 .pricing-content .pricing-link a:focus{
@@ -1231,7 +1231,7 @@ svg.logo text{
     margin-top: 25px;
 }
 #page-icon .pricing-icon.pricing-color1{
-    background-color: #756de7;
+    background-color: #30368e;
 }
 #page-icon .pricing-icon.pricing-color2{
     background-color: #5d9cec;
@@ -1399,7 +1399,7 @@ svg.logo text{
     left: 0;
     top: 0;
     padding: 60px 50px;
-    background-color: #756de7;
+    background-color: #30368e;
     border-radius: 10px;
     -webkit-transform: rotateX(60deg) scale(0.5) translateY(50px);
     transform: rotateX(60deg) scale(0.5) translateY(50px);
@@ -1473,7 +1473,7 @@ svg.logo text{
     width: 62px;
     height: 62px;
     border-radius: 100px;
-    background-color: #756de7;
+    background-color: #30368e;
     text-align: center;
     padding-top: 8px;
     z-index: 100;
@@ -1481,7 +1481,7 @@ svg.logo text{
 }
 #features-links-holder .feature-icon-holder:hover,
 #features-links-holder .feature-icon-holder:focus{
-    background-color: #5d56c9;
+    background-color: #3d45ba;
 }
 #features-links-holder .feature-icon-holder1{
     top: 0;
@@ -1536,7 +1536,7 @@ svg.logo text{
     opacity: 0;
 }
 #features-links-holder .feature-icon-holder.opened{
-    background-color: #f16ff9;
+    background-color: #6d83e7;
 }
 #features-links-holder .feature-icon-holder.opened .animation-holder{
     opacity: 1;
@@ -1726,7 +1726,7 @@ svg.logo text{
 	12. Footer Section Styles
 -------------------------------------------------------------------*/
 #footer{
-    background-color: #756de7;
+    background-color: #30368e;
     padding-top: 90px;
     padding-bottom: 70px;
     text-align: center;
@@ -1767,7 +1767,7 @@ svg.logo text{
 #footer ul.footer-menu li a:hover,
 #footer ul.footer-menu li a:focus,
 #footer ul.footer-menu li.active a{
-    color: #756de7;
+    color: #30368e;
     background-color: #ffffff;
     -webkit-box-shadow: 0 8px 18px rgba(0,0,0,0.08);
     box-shadow: 0 8px 18px rgba(0,0,0,0.08);
@@ -1904,7 +1904,7 @@ svg.logo text{
     min-height: 700px;
     height: 100%;
     overflow: hidden;
-    background-color: #756de7;
+    background-color: #30368e;
     padding: 140px 60px 60px;
     text-align: center;
     z-index: 999;
@@ -2034,7 +2034,7 @@ svg.logo text{
     text-transform: uppercase;
     padding: 8px 20px;
     border-radius: 10px;
-    background-color: #756de7;
+    background-color: #30368e;
     text-decoration: none;
     margin-left: 10px;
     -webkit-box-shadow: 0 8px 18px rgba(0,0,0,0.08);
@@ -2090,16 +2090,17 @@ svg.logo text{
 .form-control:-ms-input-placeholder {color: #526489;}
 
 .signin-signup-form .form-items{
-    display: inline-block;
-    width: 100%;
-    max-width: 410px;
+    margin: 0 auto;
+    width: 90%;
+    max-width: 700px;
 }
 .signin-signup-form .form-title{
-    color: #756de7;
+    color: #30368e;
     font-weight: 300;
-    font-size: 19px;
-    margin-bottom: 50px;
-    text-align: left;
+    font-size: 30px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    text-align: center;
 }
 .signin-signup-form .row{
     margin-right: -10px;
@@ -2185,7 +2186,7 @@ svg.logo text{
 }
 .signin-signup-form .form-text input[type="checkbox"]:checked + label,
 .signin-signup-form .form-text input[type="radio"]:checked + label{
-    color: #756de7;
+    color: #30368e;
 }
 .signin-signup-form .form-text input[type="checkbox"]:not(:checked) + label:before,
 .signin-signup-form .form-text input[type="radio"]:not(:checked) + label:before{
@@ -2213,7 +2214,7 @@ svg.logo text{
     top: 2px;
     width: 15px;
     height: 15px;
-    background: #756de7;
+    background: #30368e;
     border-radius: 50px;
     border: 0px solid #abb4bc;
     -webkit-transition: all 0.3s ease;
@@ -2252,7 +2253,7 @@ svg.logo text{
     top: 5px;
     left: 5px;
     font-size: 7px;
-    color: #756de7;
+    color: #30368e;
     */
     content: "";
     position: absolute;
@@ -2267,8 +2268,9 @@ svg.logo text{
     transition: all .2s ease;
 }
 .signin-signup-form .form-button{
+    margin: auto;
     margin-top: 40px;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 }
 .signin-signup-form .form-button .ybtn {
     padding: 7px 26px;
@@ -2308,7 +2310,7 @@ svg.logo text{
     color: #8783b4;
 }
 #header-holder.about-header{
-    background-color: #756de7;
+    background-color: #30368e;
 }
 #header-holder.about-header #page-head{
     padding-top: 80px;
@@ -2323,12 +2325,12 @@ svg.logo text{
     z-index: 0;
 }
 .bg-custom .obj-gradiant1{
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#7f20d8+0,756de7+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#7f20d8+0,30368e+100 */
     background: rgb(127,32,216); /* Old browsers */
     background: -moz-linear-gradient(45deg, rgba(127,32,216,1) 0%, rgba(117,109,231,1) 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(45deg, rgba(127,32,216,1) 0%,rgba(117,109,231,1) 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(45deg, rgba(127,32,216,1) 0%,rgba(117,109,231,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7f20d8', endColorstr='#756de7',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7f20d8', endColorstr='#30368e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     opacity: 0.43;
     position: absolute;
     width: 70%;
@@ -2337,12 +2339,12 @@ svg.logo text{
     top: 20%;
 }
 .bg-custom .obj-gradiant2{
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#756de7+0,7f20d8+100,7f20d8+101 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#30368e+0,7f20d8+100,7f20d8+101 */
     background: rgb(117,109,231); /* Old browsers */
     background: -moz-linear-gradient(-45deg, rgba(117,109,231,1) 0%, rgba(127,32,216,1) 100%, rgba(127,32,216,1) 101%); /* FF3.6-15 */
     background: -webkit-linear-gradient(-45deg, rgba(117,109,231,1) 0%,rgba(127,32,216,1) 100%,rgba(127,32,216,1) 101%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(135deg, rgba(117,109,231,1) 0%,rgba(127,32,216,1) 100%,rgba(127,32,216,1) 101%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#756de7', endColorstr='#7f20d8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#30368e', endColorstr='#7f20d8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     opacity: 0.43;
     position: absolute;
     width: 70%;
@@ -2415,12 +2417,12 @@ svg.logo text{
     100% { top: 100%;left: 100%; opacity: 1;}
 }
 .icons-animation-holder .aicon-main{
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#756de7+0,aaa5f1+92 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#30368e+0,aaa5f1+92 */
     background: rgb(117,109,231); /* Old browsers */
     background: -moz-linear-gradient(-45deg, rgba(117,109,231,1) 0%, rgba(170,165,241,1) 92%); /* FF3.6-15 */
     background: -webkit-linear-gradient(-45deg, rgba(117,109,231,1) 0%,rgba(170,165,241,1) 92%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(135deg, rgba(117,109,231,1) 0%,rgba(170,165,241,1) 92%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#756de7', endColorstr='#aaa5f1',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#30368e', endColorstr='#aaa5f1',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     -webkit-box-shadow: 0 0 45px rgba(0,0,0,0.15);
     box-shadow: 0 0 45px rgba(0,0,0,0.15);
     top: 50%;
@@ -2524,12 +2526,12 @@ svg.logo text{
     top: 0;
 }
 #more-info .bg-custom .obj-gradiant2{
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#756de7+0,aaa5f1+100 */
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#30368e+0,aaa5f1+100 */
     background: rgb(117,109,231); /* Old browsers */
     background: -moz-linear-gradient(-45deg, rgba(117,109,231,1) 0%, rgba(170,165,241,1) 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(-45deg, rgba(117,109,231,1) 0%,rgba(170,165,241,1) 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(135deg, rgba(117,109,231,1) 0%,rgba(170,165,241,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#756de7', endColorstr='#aaa5f1',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#30368e', endColorstr='#aaa5f1',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
     opacity: 0.4;
     position: absolute;
     width: 60%;
@@ -2700,7 +2702,7 @@ svg.logo text{
 }
 
 #header-holder.purple-header{
-    background-color: #756de7;
+    background-color: #30368e;
 }
 #header-holder.purple-header .bg-animation{
     display: none;
@@ -2888,7 +2890,7 @@ svg.logo text{
     position: relative;
 }
 #articles .article-summary .article-title a{
-    color: #756de7;
+    color: #30368e;
     font-size: 16px;
     font-weight: 600;
     text-decoration: none;
@@ -2959,10 +2961,10 @@ svg.logo text{
 #articles .pagination .page-number{
     border-radius: 50px;
     padding: 5px 10px;
-    color: #756de7;
+    color: #30368e;
     text-decoration: none;
     font-weight: 600;
-    border: 2px solid #756de7;
+    border: 2px solid #30368e;
 }
 #articles .pagination a.page-number:hover,
 #articles .pagination a.page-number:focus{
@@ -3008,7 +3010,7 @@ svg.logo text{
 #post-content .post .meta .view:before{
     content: "\f06e";
     font-family: fontAwesome;
-    color: #756de7;
+    color: #30368e;
     margin-right: 10px;
 }
 #post-content .post .meta .like{
@@ -3018,7 +3020,7 @@ svg.logo text{
 #post-content .post .meta .like:before{
     content: "\f004";
     font-family: fontAwesome;
-    color: #756de7;
+    color: #30368e;
     margin-right: 10px;
 }
 #post-content .post .meta .like a{
@@ -3035,7 +3037,7 @@ svg.logo text{
 #post-content .post .meta .comment:before{
     content: "\f27a";
     font-family: fontAwesome;
-    color: #756de7;
+    color: #30368e;
     margin-right: 10px;
 }
 #post-content #post-body .post .post-title{
@@ -3442,7 +3444,7 @@ svg.logo text{
         font-size: 12px;
     }
     #form-section svg.logo text{
-        fill: #756de7;
+        fill: #30368e;
     }
     #contact-info div[class^="col-"]:nth-child(2) .info-box:before{
         opacity: 0;
