@@ -227,7 +227,7 @@
                         <div class="pricing-title">Blockchain/Crypto 101</div>
                         <div class="pricing-price">4 hours • $499</div>
                         <div class="pricing-details">
-                            <ul>
+                            <ul style="text-align:justify">
                                 We gather the most up to date information and present it in a way that can be easily understood. Our understanding on the market fluctuation and trends have proven essential to our clientele.
                             </ul>
                         </div>
@@ -247,7 +247,7 @@
                         <div class="pricing-title">Investment</div>
                         <div class="pricing-price">3 hours • $499</div>
                         <div class="pricing-details">
-                            <ul>
+                            <ul style="text-align:justify">
                                 Providing expert level knowledge on every aspect of what makes certain cryptocurrencies  successful. The team provides their grass root experiences investing in top cryptocurrencies on the market with our combined years in hardware and software safety solutions.
                             </ul>
                         </div>
@@ -267,7 +267,7 @@
                         <div class="pricing-title">Custom</div>
                         <div class="pricing-price">3 hours • $699</div>
                         <div class="pricing-details">
-                            <ul>
+                            <ul style="text-align:justify">
                                 Curious about something in the Crypto world but don't see an option that fits?  Tell us! We’d love to see if we can help. Bots vps
                                 
                             </ul>
@@ -282,19 +282,38 @@
     </div>
 </div>
 <div id="custom-plan" class="container-fluid">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h4>What is Crypto Worth?</h4>
-                <p>Use the slider below to see the current market price for Bitcoin. Bitcoin is the most popular cryptocurrecy that exists in the market today.</p>
-            </div>
-            <div class="col-md-12">
-                <div class="custom-plan-box">
-                    <input id="c-plan" type="text" data-slider-min="100" data-slider-max="1000" data-slider-step="100" data-slider-value="500" data-currency="$" data-unit="BTC">
-                </div>
-            </div>
-        </div>
+    
+
+<div class="bitcoin">
+
+
+<script src="https://use.typekit.net/tou5pbt.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<div class="btc-badge">
+    <div class="card">
+        <p>Current Bitcoin price</p>
+        <h1>${{ btcUSD }}</h1>
+        <p>Past 24 hours</p>
+        <p :class="upDown">{{ percentChange }}%</p>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 125">
+            <path d="M50 30L30 40 10 10v80h80V50L70 60"/>
+        </svg>
     </div>
+</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
 </div>
 
 <div id="testimonials" class="container-fluid">
@@ -454,6 +473,7 @@
     </div>
 </div>
 <script src="js/jquery.min.js"></script>
+<script src="js/bit.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/bootstrap-slider.min.js"></script>
 <script src="js/slick.min.js"></script>
