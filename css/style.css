@@ -137,11 +137,11 @@
 }
 .row-icon .pricing-icon.color2 .htfy,
 .row-icon .pricing-icon.color2 .fa{
-    color: #5d9cec;
+    color: #2832c6;
 }
 .row-icon .pricing-icon.color3 .htfy,
 .row-icon .pricing-icon.color3 .fa{
-    color: #65d692;
+    color: #2832C6;
 }
 .ybtn{
     border: 0;
@@ -178,7 +178,7 @@
 .ybtn-purple:hover,
 .ybtn-purple:focus{
     color: #ffffff;
-    background-color: #6961d4;
+    background-color: #6d83e7;
 }
 .ybtn-purple-text{
     color: #30368e;
@@ -186,7 +186,7 @@
 }
 .ybtn-purple-text:hover,
 .ybtn-purple-text:focus{
-    color: #6961d4;
+    color: #6d83e7;
 }
 .ybtn-white{
     color: #66556b;
@@ -249,13 +249,14 @@
     position: absolute;
     opacity: 0.9;
     left: 0%;
-    top: -20%;
+    top: -25%;
     width: 100%;
-    height: 108%;
+    height: 115%;
     background-image: url(../images/headbg.svg);
+    background-size: cover;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-color: #30368e;
+    background-position: center center;
+    background-color: #000;
     -webkit-transform: skewY(-10deg);
     transform: skewY(-10deg);
     z-index: -1;
@@ -263,7 +264,7 @@
 #header-holder.inner-header .bg-animation {
     opacity: 1;
     top: 0;
-    height: 100%;
+    height: 150%;
     background-image: inherit;
     background-color: #30368e;
     -webkit-transform: skewY(0deg);
@@ -334,7 +335,7 @@ svg.logo text{
     position: relative;
     cursor: pointer;
     padding: 9px 30px;
-    background-color: #65d692;
+    background-color: #3171ff;
     border-radius: 4px;
     color: #ffffff;
     opacity: 1;
@@ -348,7 +349,7 @@ svg.logo text{
 }
 .support-button-holder a.support-button:hover,
 .support-button-holder a.support-button:focus{
-    background-color: #57c984 !important;
+    background-color: #6d83e7 !important;
     color: #ffffff !important;
 }
 @media (min-width: 768px){
@@ -506,14 +507,14 @@ svg.logo text{
     color: #5c55c4;
 }
 .mega-box.m-color2 .mega-icon{
-    color: #5d9cec;
+    color: #2832c6;
 }
 .mega-box.m-color2:hover .mega-icon,
 .mega-box.m-color2:focus .mega-icon{
     color: #4985d0;
 }
 .mega-box.m-color3 .mega-icon{
-    color: #65d692;
+    color: #3171ff;
 }
 .mega-box.m-color3:hover .mega-icon,
 .mega-box.m-color3:focus .mega-icon{
@@ -635,7 +636,7 @@ svg.logo text{
 #top-content .domain-search-holder input[type="submit"]{
     padding: 20px 30px;
     border-radius: 10px;
-    background-color: #65d692;
+    background-color: #3171ff;
     font-size: 18px;
     color: #ffffff;
     border: 0;
@@ -663,7 +664,7 @@ svg.logo text{
     display: inline-block;
     width: 65px;
     height: 65px;
-    background-color: #65d692;
+    background-color: #3171ff;
     border-radius: 100px;
     -webkit-box-shadow: 0 9px 18px rgba(0,0,0,0.08);
     -moz-box-shadow: 0 9px 18px rgba(0,0,0,0.08);
@@ -734,7 +735,7 @@ svg.logo text{
     color: #7971e8;
 }
 #h-info .blue-text{
-    color: #5d9cec;
+    color: #2832c6;
 }
 #h-info .green-text{
     color: #26dd6c;
@@ -984,13 +985,13 @@ svg.logo text{
     filter: grayscale(100%) brightness(88%);
 }
 .pricing-box.pricing-color1 .pricing-content .pricing-icon{
-    background-color: #30368e;
+    background-color: #2832C6;
 }
 .pricing-box.pricing-color2 .pricing-content .pricing-icon{
-    background-color: #5d9cec;
+    background-color: #2832c6;
 }
 .pricing-box.pricing-color3 .pricing-content .pricing-icon{
-    background-color: #65d692;
+    background-color: #2832C6;
 }
 .pricing-box.pricing-box-simple .pricing-content .pricing-icon{
     border: 1px solid #e0e0e8;
@@ -998,11 +999,11 @@ svg.logo text{
 }
 
 .pricing-box.pricing-box-simple.pricing-color1:hover .pricing-content .pricing-icon{
-    border-color: #30368e;
+    border-color: #2832C6;
     background-color: #eae8ff;
 }
 .pricing-box.pricing-box-simple.pricing-color2:hover .pricing-content .pricing-icon{
-    border-color: #5d9cec;
+    border-color: #2832c6;
     background-color: #e4f0ff;
 }
 .pricing-box.pricing-box-simple.pricing-color3:hover .pricing-content .pricing-icon{
@@ -1027,10 +1028,10 @@ svg.logo text{
     opacity: 1;
 }
 .pricing-box.pricing-box-simple.pricing-color1:before{
-    color: #30368e;
+    color: #2832C6;
 }
 .pricing-box.pricing-box-simple.pricing-color2:before{
-    color: #5d9cec;
+    color: #2832c6;
 }
 .pricing-box.pricing-box-simple.pricing-color3:before{
     color: #59d75d;
@@ -1072,13 +1073,13 @@ svg.logo text{
     padding: 4px 5px;
 }
 .pricing-box.featured.pricing-color1 .pricing-content:after{
-    background-color: #30368e;
+    background-color: #2832C6;
 }
 .pricing-box.featured.pricing-color2 .pricing-content:after{
-    background-color: #5d9cec;
+    background-color: #2832c6;
 }
 .pricing-box.featured.pricing-color3 .pricing-content:after{
-    background-color: #65d692;
+    background-color: #2832C6;
 }
 .pricing-box .pricing-content .pricing-title{
     font-size: 17px;
@@ -1086,13 +1087,13 @@ svg.logo text{
     text-transform: uppercase;
 }
 .pricing-box.pricing-color1 .pricing-content .pricing-title{
-    color: #30368e;
+    color: #2832C6;
 }
 .pricing-box.pricing-color2 .pricing-content .pricing-title{
-    color: #5d9cec;
+    color: #2832c6;
 }
 .pricing-box.pricing-color3 .pricing-content .pricing-title{
-    color: #65d692;
+    color: #2832C6;
 }
 .pricing-box .pricing-content .pricing-price{
     font-size: 17px;
@@ -1142,19 +1143,19 @@ svg.logo text{
     transform: scale(0.7);
 }
 .pricing-box.pricing-color1 .pricing-content .pricing-details ul li:before{
-    background-color: #30368e;
+    background-color: #2832C6;
     -webkit-box-shadow: 0 3px 8px rgba(117, 109, 231, 0.5);
     -moz-box-shadow: 0 3px 8px rgba(117, 109, 231, 0.5);
     box-shadow: 0 3px 8px rgba(117, 109, 231, 0.5);
 }
 .pricing-box.pricing-color2 .pricing-content .pricing-details ul li:before{
-    background-color: #5d9cec;
+    background-color: #2832c6;
     -webkit-box-shadow: 0 3px 8px rgba(93, 156, 236, 0.5);
     -moz-box-shadow: 0 3px 8px rgba(93, 156, 236, 0.5);
     box-shadow: 0 3px 8px rgba(93, 156, 236, 0.5);
 }
 .pricing-box.pricing-color3 .pricing-content .pricing-details ul li:before{
-    background-color: #65d692;
+    background-color: #2832C6;
     -webkit-box-shadow: 0 3px 8px rgba(101, 214, 146, 0.5);
     -moz-box-shadow: 0 3px 8px rgba(101, 214, 146, 0.5);
     box-shadow: 0 3px 8px rgba(101, 214, 146, 0.5);
@@ -1177,7 +1178,7 @@ svg.logo text{
 }
 .pricing-box.pricing-color1 .pricing-content .pricing-link a{
     color: #ffffff;
-    background-color: #30368e;
+    background-color: #2832C6;
 }
 .pricing-box.pricing-color1 .pricing-content .pricing-link a:hover,
 .pricing-box.pricing-color1 .pricing-content .pricing-link a:focus{
@@ -1186,7 +1187,7 @@ svg.logo text{
 }
 .pricing-box.pricing-color2 .pricing-content .pricing-link a{
     color: #ffffff;
-    background-color: #5d9cec;
+    background-color: #2832c6;
 }
 .pricing-box.pricing-color2 .pricing-content .pricing-link a:hover,
 .pricing-box.pricing-color2 .pricing-content .pricing-link a:focus{
@@ -1195,7 +1196,7 @@ svg.logo text{
 }
 .pricing-box.pricing-color3 .pricing-content .pricing-link a{
     color: #ffffff;
-    background-color: #65d692;
+    background-color: #2832C6;
 }
 .pricing-box.pricing-color3 .pricing-content .pricing-link a:hover,
 .pricing-box.pricing-color3 .pricing-content .pricing-link a:focus{
@@ -1231,13 +1232,13 @@ svg.logo text{
     margin-top: 25px;
 }
 #page-icon .pricing-icon.pricing-color1{
-    background-color: #30368e;
+    background-color: #2832C6;
 }
 #page-icon .pricing-icon.pricing-color2{
-    background-color: #5d9cec;
+    background-color: #2832c6;
 }
 #page-icon .pricing-icon.pricing-color3{
-    background-color: #65d692;
+    background-color: #2832C6;
 }
 /*------------------------------------------------------------------
 	8. Custom Plan Section Styles
@@ -1481,7 +1482,7 @@ svg.logo text{
 }
 #features-links-holder .feature-icon-holder:hover,
 #features-links-holder .feature-icon-holder:focus{
-    background-color: #3d45ba;
+    background-color: #6d83e7;
 }
 #features-links-holder .feature-icon-holder1{
     top: 0;
@@ -1536,7 +1537,7 @@ svg.logo text{
     opacity: 0;
 }
 #features-links-holder .feature-icon-holder.opened{
-    background-color: #6d83e7;
+    background-color: #3171ff;
 }
 #features-links-holder .feature-icon-holder.opened .animation-holder{
     opacity: 1;
@@ -2484,6 +2485,7 @@ svg.logo text{
     width: 94px;
     height: 94px;
 }
+
 #ifeatures .feature-box .feature-title{
     color: #7662e5;
     font-size: 17px;
@@ -2827,6 +2829,13 @@ svg.logo text{
     box-shadow: 0 7px 18px rgba(0,0,0,0.03);
 }
 
+.feature-icon img{
+
+    margin-bottom: 11px;
+
+}
+
+
 #apps .apps-holder .app-details{
     position: relative;
     min-height: 158px;
@@ -3095,19 +3104,19 @@ svg.logo text{
     right: 0px;
     top: 3px;
     text-align: center;
-    border: 2px solid #65d692;
-    color: #65d692;
+    border: 2px solid #3171ff;
+    color: #3171ff;
     padding-top: 2px;
     font-size: 12px;
     font-weight: 600;
 }
 #post-content #sidebar #categories.widget .item a:hover,
 #post-content #sidebar #categories.widget .item a:focus{
-    color: #65d692;
+    color: #3171ff;
 }
 #post-content #sidebar #categories.widget .item a:hover span,
 #post-content #sidebar #categories.widget .item a:focus span{
-    background-color: #65d692;
+    background-color: #3171ff;
     color: #ffffff;
 }
 #post-content #sidebar #popular-posts.widget .item{
@@ -3514,6 +3523,10 @@ svg.logo text{
     }
     #top-content .big-title span {
         font-size: 40px;
+    }
+    #top-content .big-title img {
+        width: 80%;
+        height: auto;
     }
     #info {
         padding-top: 20px;
